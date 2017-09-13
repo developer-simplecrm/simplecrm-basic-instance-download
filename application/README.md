@@ -9,7 +9,7 @@ The following links offer various ways to know more about the SimpleCRM product:
 
 + [SimpleCRM Website - Website link to SimpleCRM][simplecrm_website]
 + [SimpleCRM Demo - Take a tour to SimpleCRM][simplecrm_demo]
-+ [SimpleCRM Blog - Blog to discuss about SimpleCRM with various topics and subjects about SimpleCRM][simplecrm_blog]
++ [SimpleCRM Blog - Additional details about this release][simplecrm_blog]
 
 
 [simplecrm_website]: http://www.simplecrm.com.sg
