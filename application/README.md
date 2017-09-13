@@ -14,7 +14,7 @@ The following links offer various ways to know more about the SimpleCRM product:
 
 [simplecrm_website]: http://www.simplecrm.com.sg
 [simplecrm_demo]: http://www.simplecrm.com.sg/schedule-demo
-[simplecrm_blog]: http://www.simplecrm.com.sg/blog
+[simplecrm_blog]: https://www.simplecrm.com.sg/blog/downloads-and-resources
 
 
 ### Support & Licensing ###
