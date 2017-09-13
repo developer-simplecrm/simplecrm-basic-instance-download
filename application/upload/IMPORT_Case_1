@@ -1,0 +1,159 @@
+﻿"Number","ID","Subject","Description","Status","Type","Priority","Resolution","Work Log","Account Name","Account ID","Assigned User ID","Teams","Team ID","Date Created","Date Modified","Created By ID","Modified By ID","Deleted","Estimated Effort (Hrs)","Actual Effort (Hrs)","Date Closed","Aging (Days)","Contacts","contacts_cases_1contacts_ida","Opportunities","opportunities_cases_1opportunities_ida"
+"104","16810bca-0b38-1569-b6fc-55ba09142a67","Ticket-2","","New","Defect","P2","","","","","1","Global","1","30-07-2015 04:52 pm","03-08-2015 11:24 am","1","af1ef5c6-e013-d0e9-df85-552b6b408985","0","","","","","","","",""
+"112","19426f51-f012-561c-0df9-55c1efac97e9","Test","This is test.
+
+-- 
+Thanks,
+Aniket R. Thakre
+","New","Defect","P1","","","","","seed_jim_id","Global","1","05-08-2015 04:41 pm","05-08-2015 04:41 pm","1","1","0","","","","","","","",""
+"114","1f74bbdd-7fe7-1370-fbfd-55c2fc82e531","internet not working","Dear Support,
+
+ 
+
+Please check
+
+ 
+
+thanks
+
+","New","Defect","P1","","","Coolview Net Ltd","a19a1d5c-e569-e56b-efce-55265737b0bd","seed_jim_id","Global","1","06-08-2015 11:49 am","06-08-2015 11:49 am","1","1","0","","","","","","","",""
+"109","2ba30d26-d47c-ec00-e9c1-55c1ef248cb3","Three tips to get the most out of Gmail"," Three tips to get the most out of Gmail
+[image: Google]
+
+Hi Simple
+
+Tips to get the most out of Gmail
+
+[image: Contacts]
+Bring your contacts and mail into Gmail
+
+On your computer, you can copy your contacts and emails from your old email
+account to make the transition to Gmail even better. Learn how
+<https://support.google.com/mail/answer/164640?hl=en&ref_topic=1669014>.
+[image: Search]
+Find what you need fast
+
+With the power of Google Search right in your inbox, it's easy to sort your
+email. Find what you're looking for with predictions based on email
+content, past searches and contacts.
+[image: Search]
+Much more than email
+
+You can send text messages and make video calls with Hangouts
+<https://www.google.com/intl/en/hangouts/> right from Gmail. To use this
+feature on mobile, download the Hangouts app for Android
+<https://play.google.com/store/apps/details?id=com.google.android.talk&hl=en>
+and Apple <https://itunes.apple.com/en/app/hangouts/id643496868?mt=8>
+devices.
+
+
+[image: Gmail icon]Happy emailing,
+The Gmail Team
+© 2015 Google Inc. 1600 Amphitheatre Parkway, Mountain View, CA 94043
+","New","Defect","P1","","","","","seed_jim_id","Global","1","05-08-2015 04:41 pm","05-08-2015 04:41 pm","1","1","0","","","","","","","",""
+"110","35834429-60f9-038d-9417-55c1ef6d7361","The best of Gmail, wherever you are"," The best of Gmail, wherever you are
+[image: Google]
+[image: Nexus 4 with Gmail]
+
+Hi Simple
+
+
+Get the official Gmail app
+
+The best features of Gmail are only available on your phone and tablet with
+the official Gmail app. Download the app or go to gmail.com
+<https://www.gmail.com/> on your computer or mobile device to get started.
+
+[image: Google Play]
+<https://play.google.com/store/apps/details?id=com.google.android.gm>  [image:
+App Store] <https://itunes.apple.com/en/app/gmail/id422689480?mt=8>
+
+
+[image: Gmail icon]Happy emailing,
+The Gmail Team
+© 2015 Google Inc. 1600 Amphitheatre Parkway, Mountain View, CA 94043
+","New","Defect","P1","","","","","seed_jim_id","Global","1","05-08-2015 04:41 pm","05-08-2015 04:41 pm","1","1","0","","","","","","","",""
+"120","4516c542-21b8-d465-06c7-55ccbe7059aa","Breakdown at shivajinagr","Breakdown at location, urgent help required","InProcess","Defect","P1","","","Bharat Ltd","aa427146-507f-fc2b-e40b-55ccbaac6e30","seed_jim_id","Global","1","13-08-2015 09:29 pm","13-08-2015 09:29 pm","seed_jim_id","seed_jim_id","0","12.00","","","","Jimi John","aa032483-7a2e-5387-7e02-55ccba943066","",""
+"117","58aa4a7f-db5d-6c5a-51f0-55cc55b17a82","Incorrect name on policy","Details.
+
+
+","New","Defect","P1","","","","","seed_jim_id","Global","1","13-08-2015 01:59 pm","13-08-2015 01:59 pm","1","1","0","","","","","","","",""
+"103","61033b47-8046-0995-58a2-55b9c8696f45","Ticket - 1","This is some description about ticket.","Closed","Defect","P2","This is resolved.","","","","1","Global","1","30-07-2015 12:17 pm","03-08-2015 11:24 am","1","af1ef5c6-e013-d0e9-df85-552b6b408985","0","40.00","6.00","30-07-2015 12:30 pm","","","","",""
+"111","62545484-a903-cf61-f89a-55c1ef9f1966","Stay more organized with Gmail's inbox"," Stay more organized with Gmail's inbox
+[image: Google]
+
+Hi Simple
+
+Gmail's inbox puts you in control
+
+[image: Inbox video] <https://www.youtube.com/watch?v=CFf7dlewJus>
+Meet the inbox
+
+Gmail's inbox sorts your email into categories so you can see what's new at
+a glance, decide which emails you want to read when and view similar types
+of emails together. Watch the video
+<https://www.youtube.com/watch?v=CFf7dlewJus>
+[image: Social tab]
+Choose your categories
+
+The Social and Promotions categories are on by default. Add categories like
+Updates and Forums or remove categories to have those emails show up in
+your Primary inbox. Learn how to choose categories
+<https://support.google.com/mail/?hl=en&p=inboxcategories_all>
+[image: Customize]
+Customize your inbox
+
+If you see a message you want in a different category, you can move it
+there. On mobile devices, you can even choose which categories create a
+notification. More customization tips
+<https://support.google.com/mail/?hl=en&p=inboxcategories_all>
+
+
+
+To learn more about Gmail's inbox, check out the help center
+<https://support.google.com/mail/?hl=en&p=inboxcategories_all> or watch the
+video <https://www.youtube.com/watch?v=CFf7dlewJus&amp>.
+
+
+[image: Gmail icon]Happy emailing,
+The Gmail Team
+© 2015 Google Inc. 1600 Amphitheatre Parkway, Mountain View, CA 94043
+","New","Defect","P1","","","","","seed_jim_id","Global","1","05-08-2015 04:41 pm","05-08-2015 04:41 pm","1","1","0","","","","","","","",""
+"113","6d9f1df6-c671-9172-7e7d-55c2ed665185","Something not working","Thanks & Regards
+Mangesh Deshmukh
+-------------------------------
+Sales Team, SimpleCRM
+
+Mobile +91 879-319-5867
+","New","Defect","P1","","","Coolview Net Ltd","a19a1d5c-e569-e56b-efce-55265737b0bd","seed_jim_id","Global","1","06-08-2015 10:43 am","06-08-2015 10:43 am","1","1","0","","","","","","","",""
+"116","8197dbf5-a4d4-3346-c984-55cc5313e588","Ticket Testing on 13 aug","Pals Check
+
+","New","Defect","P1","","","","","seed_jim_id","Global","1","13-08-2015 01:51 pm","13-08-2015 01:51 pm","1","1","0","","","","","","","",""
+"108","81c145a2-1282-c15a-9a2c-55c0924e2022","Website not responding","pls check","Assigned","Product","P1","","","Draft Diversified Energy Inc","126d70aa-7e03-176d-10f0-552657a51ce8","seed_sarah_id","","","04-08-2015 03:53 pm","04-08-2015 03:53 pm","830e9896-9c40-7a82-9bae-5544ce763b3d","830e9896-9c40-7a82-9bae-5544ce763b3d","0","","","","","John Smith","b6e8b9c0-e17a-0d90-81e0-559b6b474c15","",""
+"101","87cb0175-3b67-4d68-ad7e-55b72a511e3d","Connectivity issue ","customer called for ticket ","Closed","Product","P1","check signal strength","","Reliance Jio","ebbfc00b-8b59-f430-2c55-55a612ca7d9d","seed_sarah_id","","","28-07-2015 12:40 pm","28-07-2015 12:54 pm","seed_sarah_id","af1ef5c6-e013-d0e9-df85-552b6b408985","0","12.00","12.00","28-07-2015 12:53 pm","","","","",""
+"115","8c77b0c1-85e6-a39c-4ef9-55cc4f0bdf3f","Something not working"," 
+
+ 
+
+Please check
+
+","New","Defect","P1","","","Coolview Net Ltd","a19a1d5c-e569-e56b-efce-55265737b0bd","seed_jim_id","Global","1","13-08-2015 01:33 pm","13-08-2015 01:33 pm","1","1","0","","","","","","","",""
+"106","8f170669-ab56-536b-55dc-55bb5685c2e2","something is not working","","Closed","Defect","P2","done","","KN Enterprises","528991ce-1c21-cfe2-c050-5546e96379ef","5e8b543e-61bb-1635-60fe-554707826866","North","6fdd8b9c-e9c2-ef55-9200-555c3885d82d","31-07-2015 04:36 pm","31-07-2015 04:38 pm","5e8b543e-61bb-1635-60fe-554707826866","5e8b543e-61bb-1635-60fe-554707826866","0","25.00","25.00","31-07-2015 04:38 pm","","","","Support PAck - 100","ba0f6352-28d8-db77-8e9d-55bb56caa63d"
+"107","b364dba2-3ca5-4d62-3fbc-55c078d22e9c","Connectivity issue Mobile app","test","New","Defect","P2","","","Draft Diversified Energy Inc","126d70aa-7e03-176d-10f0-552657a51ce8","seed_jim_id","Global","1","04-08-2015 02:01 pm","04-08-2015 03:17 pm","seed_jim_id","1","0","12.00","","","","John Smith","b6e8b9c0-e17a-0d90-81e0-559b6b474c15","SimpleCRM mobile app developement","cb7db36d-5fe7-7c9a-e3d8-55c0712454ed"
+"105","d862def6-28ad-95f1-7ddb-55bafc0b02ca","Ticket Test -1","","New","Defect","P2","","","Anchor Inc.- Test","9aa32b34-3762-2059-a4d1-55bafb9c9fac","1","Global","1","31-07-2015 10:11 am","31-07-2015 10:11 am","1","1","0","50.00","","","","","","",""
+"118","de2206f5-9fd5-83b3-f6b3-55cc56330eaa","wrong name on policy","Details.
+
+
+
+","New","Defect","P1","","","","","seed_jim_id","Global","1","13-08-2015 02:03 pm","13-08-2015 02:03 pm","1","1","0","","","","","","","",""
+"102","e724fda8-6315-9b86-044b-55b734edba66","demo test case monarch","issue test","Closed","Product","P1","issue checked and corrected","","Draft Diversified Energy Inc","126d70aa-7e03-176d-10f0-552657a51ce8","seed_sarah_id","","","28-07-2015 01:21 pm","28-07-2015 01:26 pm","830e9896-9c40-7a82-9bae-5544ce763b3d","seed_sarah_id","0","12.00","12.00","28-07-2015 01:26 pm","","","","",""
+"119","e8e5aac4-2f43-3ad5-a8eb-55cc56f65f79","Please change policy nominee","
+Regards,
+Indraneel Fuke
+Director
+Simpleworks Business Solutions Pte Ltd
+www.simplecrm.com.sg
+
+
+
+","New","Defect","P1","","","Indraneel Fuke","2b685788-585f-41b9-6279-55c9ab94ceaf","seed_jim_id","Global","1","13-08-2015 02:05 pm","13-08-2015 02:05 pm","1","1","0","","","","","","","",""

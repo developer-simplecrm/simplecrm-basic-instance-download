@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+METHOD:REPLY
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTEND:20150911T053000Z
+ORGANIZER;CN="aniket@simplecrm.com.sg":mailto:aniket@simplecrm.com.sg
+UID:edkihfcks0n6m5crun8f7j58i8@google.com
+DTSTAMP:20150910T130042Z
+LOCATION:Skype
+DESCRIPTION:Please join my meeting from your computer\, tablet or smartp
+ hone \nView your event at https://www.google.com/calendar/event?action=V
+ IEW&eid=ZWRraWhmY2tzMG42bTVjcnVuOGY3ajU4aTggaW5kcmFuZWVsQHNpbXBsZWNybS5j
+ b20uc2c&tok=MjMjYW5pa2V0QHNpbXBsZWNybS5jb20uc2cxNzkyZDY1YjZhZDU1ZTkxNDA0
+ ZTZkZWZmYzQzMDAzZmZhNTRmNTAy&ctz=Asia/Calcutta&hl=en.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:Discussion on ToddlerCreed Mobile App 
+LAST-MODIFIED:20150910T125925Z
+DTSTART:20150911T050000Z
+CREATED:20150910T125924Z
+ATTENDEE;CN="indraneel@simplecrm.com.sg";CUTYPE=INDIVIDUAL;PARTSTAT=ACCE
+ PTED;ROLE=REQ-PARTICIPANT;X-NUM-GUESTS=0:mailto:indraneel@simplecrm.com.
+ sg
+END:VEVENT
+END:VCALENDAR

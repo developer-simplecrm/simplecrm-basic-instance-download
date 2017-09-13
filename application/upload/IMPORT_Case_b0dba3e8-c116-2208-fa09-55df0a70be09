@@ -1,0 +1,63 @@
+﻿"Number","ID","Subject","Description","Status","Type","Priority","Resolution","Work Log","Account Name","Account ID","Assigned User ID","Teams","Team ID","Date Created","Date Modified","Created By ID","Modified By ID","Deleted","Estimated Effort (Hrs)","Actual Effort (Hrs)","Date Closed","Aging (Days)","Contacts","contacts_cases_1contacts_ida","Opportunities","opportunities_cases_1opportunities_ida"
+"117","58aa4a7f-db5d-6c5a-51f0-55cc55b17a82","Incorrect name on policy","Details.
+
+
+","New","Defect","P1","","","","","seed_jim_id","Global","1","13-08-2015 01:59 pm","13-08-2015 01:59 pm","1","1","0","","","","","","","",""
+"116","8197dbf5-a4d4-3346-c984-55cc5313e588","Ticket Testing on 13 aug","Pals Check
+
+","New","Defect","P1","","","","","seed_jim_id","Global","1","13-08-2015 01:51 pm","13-08-2015 01:51 pm","1","1","0","","","","","","","",""
+"122","c3ae0797-3694-400f-0bbf-55d6a6e04214","Delivery Status Notification (Failure)","Delivery to the following recipient failed permanently:
+
+     sam@test.com
+
+Technical details of permanent failure: 
+Google tried to deliver your message, but it was rejected by the server for the recipient domain test.com by mx.spamexperts.com. [82.192.90.130].
+
+The error that the other server returned was:
+550 no mailbox by that name is currently available
+
+
+----- Original message -----
+
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=date:to:from:cc:subject:message-id:mime-version:content-type;
+        bh=bpysdxB5ZLcpHC/vy0UggKYChG2sLrzqNhz1KSk7W7s=;
+        b=ynt2Kdm5/NA+OmEuDlaPuvv/fPewQmd3exDAyASO2tgd1EYNOG/yqjLXuhbN9LLFEP
+         Zh7re8nsPsIYy5MuJ9g8cU858sX4JeIrHV2X8ZD8wCzoofRWdr2u4MdMH/Gk98zU0S/8
+         Otgg7LoSxxuC4c3RrOKN4uZvD6TvU3EiX38ZpTInRYXQayKzQssKzUhFiBmmjAnGstgO
+         HBKMd4ySw8LXv3yuw8BjCM3GB+d+6RRuCCDBhJGwwmhGsAJ72GsS4IwbHAdgTkkM0EsD
+         6b/9DHw9UxUz7fhT9bXSMFQ2nTr2Io58e6PhJVzsd9cFxr+LydEAftd4q/Bhsbk9ClPi
+         gmgw==
+X-Received: by 10.68.69.34 with SMTP id b2mr13063692pbu.119.1440130460013;
+        Thu, 20 Aug 2015 21:14:20 -0700 (PDT)
+Return-Path: <simplecrmworks@gmail.com>
+Received: from simplecrmdemo.com (ec2-54-169-182-163.ap-southeast-1.compute.amazonaws.com. [54.169.182.163])
+        by smtp.gmail.com with ESMTPSA id y1sm4147937pdh.37.2015.08.20.21.14.18
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Thu, 20 Aug 2015 21:14:19 -0700 (PDT)
+Date: Fri, 21 Aug 2015 04:14:16 +0000
+Return-Path: simplecrmworks@gmail.com
+To: sam@test.com
+From: SimpleCRM <simplecrmworks@gmail.com>
+Cc: mangesh@simplecrm.com
+Subject: Welcome to SimpleWorks
+Message-ID: <17d6ebddacfcd02a8f0dc617ce3219c8@simplecrmdemo.com>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.1 (http://code.google.com/a/apache-extras.org/p/phpmailer/)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary=""b1_17d6ebddacfcd02a8f0dc617ce3219c8""
+
+Dear Mr. Sam Mera,
+Thanks for your interest in SimpleCRM. We will get in touch with you shortly, in the mean while please at a look at our newly launched website.
+ 
+Thanks,
+Mangesh  
+
+","New","Defect","P1","","","","","seed_jim_id","Global","1","21-08-2015 09:45 am","21-08-2015 09:45 am","1","1","0","","","","","","","",""
+"118","de2206f5-9fd5-83b3-f6b3-55cc56330eaa","wrong name on policy","Details.
+
+
+
+","New","Defect","P1","","","","","seed_jim_id","Global","1","13-08-2015 02:03 pm","13-08-2015 02:03 pm","1","1","0","","","","","","","",""

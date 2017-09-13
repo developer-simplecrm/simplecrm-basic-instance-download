@@ -1,0 +1,6 @@
+Wed Sep 13 22:00:26 2017 [22290][-none-][FATAL] Could not connect to DB server  as . port : Access denied for user ''@'localhost' (using password: NO)
+Wed Sep 13 22:01:27 2017 [22223][-none-][FATAL] Could not connect to DB server  as . port : Access denied for user ''@'localhost' (using password: NO)
+Wed Sep 13 22:02:28 2017 [22293][-none-][FATAL] Could not connect to DB server  as . port : Access denied for user ''@'localhost' (using password: NO)
+Wed Sep 13 22:03:29 2017 [22908][-none-][FATAL] Could not connect to DB server  as . port : Access denied for user ''@'localhost' (using password: NO)
+Wed Sep 13 22:04:29 2017 [22106][-none-][FATAL] Could not connect to DB server  as . port : Access denied for user ''@'localhost' (using password: NO)
+Wed Sep 13 22:05:31 2017 [22494][-none-][FATAL] Could not connect to DB server  as . port : Access denied for user ''@'localhost' (using password: NO)

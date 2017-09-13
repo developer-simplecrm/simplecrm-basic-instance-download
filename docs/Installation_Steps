@@ -1,0 +1,26 @@
+Steps to install simplecrm application:
+------------------------------------------------------------------------------------- 
+1.Download the application and db from git.
+2.Unzip application and db.
+3.Create db and import simplecrmbasic_db.sql.zip,simplecrmbasic_db2.sql.zip,simplecrmbasic_db3.sql.zip.
+4.open config.php file from root directory of application and set db_host_name,db_user_name,db_password,db_name,site_url parameters.
+for example: 
+'dbconfig' => 
+  array (
+    'db_host_name' => 'localhost',
+    'db_host_instance' => 'SQLEXPRESS',
+    'db_user_name' => 'username',
+    'db_password' => 'password',
+    'db_name' => 'databasename',
+    'db_type' => 'mysql',
+    'db_port' => '',
+    'db_manager' => 'MysqliManager',
+  ),
+   
+   'site_url' => 'http://localhost/applicatonfolder',
+  
+5.Open application in browser using http://localhost/applicatonfolder.
+6.run application from browser.
+7.In Simplecrm login page, use the below details to login as administrator.
+Username : admin
+Password : admin.

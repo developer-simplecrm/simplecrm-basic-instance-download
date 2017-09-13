@@ -1,0 +1,37 @@
+﻿"Subject","ID","Description","Status","Direction","Start Date and Time","End Date","Duration Hours","Duration Minutes","Reminder Time (in minutes)","Related To Module","Related to ID","Outlook ID","Assigned User","Assigned User ID","Date Created","Date Modified","Created By ID","Modified By ID","Deleted","Email Reminder Time","Email reminder sent","Repeat Type","Repeat Interval","Repeat Dow","Repeat Until","Repeat Count","Repeat Parent ID","Recurring Source","Initial Time Start","is_pm_created_call_c","is_escalatable_call_c","escalation_delay_minutes_c","duration seconds","Initial Date Start","Recording","CallerId"
+"Failed call ","113fd409-7027-a342-5bcc-55cc8269a2c8","Missed/failed call
+------------------
+","Missed","Manual","13-08-2015 05:12 pm","13-08-2015 05:12 pm","0","0","-1","","","","jim","seed_jim_id","13-08-2015 05:12 pm","13-08-2015 05:13 pm","1","1","0","-1","0","","1","","","","","","","0","0","","0","","","08067735600"
+"Failed call ","25ff5849-f343-d3e5-64a9-55cc8d51716b","Missed/failed call
+------------------
+","Missed","outbound","13-08-2015 05:59 pm","13-08-2015 05:59 pm","0","0","-1","","","","admin","1","13-08-2015 06:00 pm","13-08-2015 06:01 pm","1","1","0","-1","0","","1","","","","","","","0","0","","0","","","08600003490"
+"Failed call ","32d91f13-aab6-9c57-4925-55cc8ebe4754","Missed/failed call
+------------------
+","Missed","outbound","13-08-2015 05:59 pm","13-08-2015 05:59 pm","0","0","-1","","","","admin","1","13-08-2015 06:01 pm","13-08-2015 06:10 pm","1","1","0","-1","0","","1","","","","","","","0","0","","0","","","08600003490"
+"Failed call ","68d60ec6-dce6-3c67-91f4-55cc9b944e1a","Missed/failed call
+------------------
+","Missed","inbound","13-08-2015 07:00 pm","13-08-2015 07:00 pm","0","0","-1","Accounts","1f2cff7d-d539-8fd5-4893-552657fbf70c","","jim","seed_jim_id","13-08-2015 07:00 pm","13-08-2015 07:00 pm","1","seed_jim_id","0","-1","0","","1","","","","","","","0","0","","0","","","08553921122"
+"Failed call ","6f8860a2-e664-07e9-87c1-55c43aac9b2b","Missed/failed call
+------------------
+","Missed","Manual","07-08-2015 10:28 am","07-08-2015 10:28 am","0","0","-1","","","","jim","seed_jim_id","07-08-2015 10:28 am","07-08-2015 10:28 am","1","1","0","-1","0","","1","","","","","","","0","0","","0","","","09960862711"
+"Failed call ","719331d8-8924-05d1-a8c7-55cc8d6e6421","Missed/failed call
+------------------
+","Missed","outbound","13-08-2015 05:59 pm","13-08-2015 05:59 pm","0","0","-1","","","","admin","1","13-08-2015 05:59 pm","13-08-2015 06:07 pm","1","1","0","-1","0","","1","","","","","","","0","0","","0","","","08600003490"
+"Failed call ","ad60f4d1-a657-b270-69d5-55c43ada573e","Missed/failed call
+------------------
+","Missed","Manual","07-08-2015 10:26 am","07-08-2015 10:26 am","0","0","-1","","","","jim","seed_jim_id","07-08-2015 10:26 am","07-08-2015 10:26 am","1","1","0","-1","0","","1","","","","","","","0","0","","2","","http://recordings.kookoo.in/bhea_tech/bhea_tech_9831438923379830.mp3","08892916597"
+"Failed call ","f1930242-724c-1815-fef5-55c43adceb11","Missed/failed call
+------------------
+","Missed","Manual","07-08-2015 10:27 am","07-08-2015 10:27 am","0","0","-1","","","","jim","seed_jim_id","07-08-2015 10:27 am","07-08-2015 10:28 am","1","1","0","-1","0","","1","","","","","","","0","0","","1","","http://recordings.kookoo.in/bhea_tech/bhea_tech_3661438923450724.mp3","08892916597"
+"Meeting on Requirements","8a9ee0bf-383b-9be4-4fe2-55c9b23feda3","","Held","Outbound","11-08-2015 05:00 am","11-08-2015 05:15 am","0","15","1800","Accounts","","","rajendra","887c86f5-c6bb-f043-faec-5547068fac2a","11-08-2015 02:01 pm","11-08-2015 02:01 pm","887c86f5-c6bb-f043-faec-5547068fac2a","887c86f5-c6bb-f043-faec-5547068fac2a","0","-1","0","","1","","","","","","","0","0","","","","",""
+"Successfull call","1c105b23-18ac-b4c2-5717-55ccbd63a1e6","","Held","inbound","13-08-2015 09:24 pm","13-08-2015 09:24 pm","0","0","-1","","","","jim","seed_jim_id","13-08-2015 09:24 pm","13-08-2015 09:25 pm","1","1","0","-1","0","","1","","","","","","","0","0","","54","","http://recordings.kookoo.in/bhea_tech/bhea_tech_6844394812849600.mp3","9971792535"
+"Successfull call","23d00081-509d-79c4-4cb2-55cc8e002877","","Held","inbound","13-08-2015 06:02 pm","13-08-2015 06:02 pm","0","0","-1","","","","jim","seed_jim_id","13-08-2015 06:02 pm","13-08-2015 06:03 pm","1","1","0","-1","0","","1","","","","","","","0","0","","42","","http://recordings.kookoo.in/bhea_tech/bhea_tech_6844394691218505.mp3","07022976842"
+"Successfull call","70007c10-ba7f-1e79-d5f9-55cc33bee500","","Held","Manual","13-08-2015 11:36 am","13-08-2015 11:36 am","0","0","-1","","","","jim","seed_jim_id","13-08-2015 11:35 am","13-08-2015 11:36 am","1","1","0","-1","0","","1","","","","","","","0","0","","17","","","08793195867"
+"Successfull Call","7c379340-37db-dbe0-f9ef-55c439f31cc0","","In Limbo","inbound","30-11--0001 05:53 am","","0","","-1","","","","admin","1","07-08-2015 10:20 am","07-08-2015 10:20 am","1","1","0","-1","0","","1","","","","","","","0","0","","","","",""
+"Successfull call","7fb9247f-f37f-9d2f-8fb2-55c439d678c8","","Held","inbound","07-08-2015 10:21 am","07-08-2015 10:22 am","0","1","-1","Leads","19c9d33b-cd4c-5924-b0ae-55c439ca41b1","","jim","seed_jim_id","07-08-2015 10:21 am","07-08-2015 10:23 am","1","1","0","-1","0","","1","","","","","","","0","0","","53","","http://recordings.kookoo.in/bhea_tech/bhea_tech_8004389230623754.mp3","9960862711"
+"Successfull Call","827f7a5e-495d-3eb7-87a9-55cc8d93f72c","","In Limbo","outbound","30-11--0001 05:53 am","","0","","-1","","","","admin","1","13-08-2015 06:00 pm","13-08-2015 06:00 pm","1","1","0","-1","0","","1","","","","","","","0","0","","","","",""
+"Successfull call","a8416860-210d-22e5-bd84-55cc9199ad61","","Held","Manual","13-08-2015 06:17 pm","13-08-2015 06:17 pm","0","0","-1","","","","jim","seed_jim_id","13-08-2015 06:17 pm","13-08-2015 06:18 pm","1","1","0","-1","0","","1","","","","","","","0","0","","18","","http://recordings.kookoo.in/bhea_tech/bhea_tech_3661439470053573.mp3","07022976842"
+"Successfull call","b60105f4-19fe-e0e7-755d-55c4399b4f64","Second follow up call","Held","inbound","07-08-2015 10:23 am","07-08-2015 10:23 am","0","0","-1","Leads","19c9d33b-cd4c-5924-b0ae-55c439ca41b1","","jim","seed_jim_id","07-08-2015 10:23 am","07-08-2015 10:24 am","1","1","0","-1","0","","1","","","","","","","0","0","","22","","http://recordings.kookoo.in/bhea_tech/bhea_tech_8004389232203767.mp3","9960862711"
+"Successfull call","cd9a0f1c-3857-86d4-3ed4-55cc75729ce7","","Held","Manual","13-08-2015 04:18 pm","13-08-2015 04:18 pm","0","0","-1","","","","jim","seed_jim_id","13-08-2015 04:17 pm","13-08-2015 04:18 pm","1","1","0","-1","0","","1","","","","","","","0","0","","38","","http://recordings.kookoo.in/bhea_tech/bhea_tech_7831439462879615.mp3","08892916597"
+"Successfull call","d33ee10d-5d38-0920-d12d-55cc8edc39cf","","Held","inbound","13-08-2015 06:04 pm","13-08-2015 06:06 pm","0","2","-1","","","","jim","seed_jim_id","13-08-2015 06:04 pm","13-08-2015 06:07 pm","1","1","0","-1","0","","1","","","","","","","0","0","","28","","http://recordings.kookoo.in/bhea_tech/bhea_tech_8003946927617720.mp3","07022976842"
+"Successfull call","d5f3b26b-ffd9-9857-654c-55cc74b8518a","","Held","Manual","13-08-2015 04:13 pm","13-08-2015 04:13 pm","0","0","-1","","","","jim","seed_jim_id","13-08-2015 04:13 pm","13-08-2015 04:14 pm","1","1","0","-1","0","","1","","","","","","","0","0","","59","","http://recordings.kookoo.in/bhea_tech/bhea_tech_7831439462613584.mp3","08067735600"
