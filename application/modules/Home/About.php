@@ -6,6 +6,10 @@ if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
 
  * SuiteCRM is an extension to SugarCRM Community Edition developed by Salesagility Ltd.
  * Copyright (C) 2011 - 2014 Salesagility Ltd.
+ 
+ * SimpleCRM Basic instance is an extension to SuiteCRM 7.5.1 and SugarCRM Community Edition 6.5.20. 
+ * It is developed by SimpleCRM (https://www.simplecrm.com.sg)
+ * Copyright (C) 2016 - 2017 SimpleCRM
  *
  * This program is free software; you can redistribute it and/or modify it under
  * the terms of the GNU Affero General Public License version 3 as published by the
@@ -39,6 +43,7 @@ if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
  ********************************************************************************/
 
 
+
 //NOTE: Under the License referenced above, you are required to leave in all copyright statements in both
 //the code and end-user application.
 
@@ -46,8 +51,9 @@ include_once('suitecrm_version.php');
 global $sugar_config, $mod_strings;
 
 ?>
-<?php echo getVersionedScript("modules/Home/about.js"); ?>
-<div class="about" id="about_header">
+<?php 
+//echo getVersionedScript("modules/Home/about.js"); ?>
+<!--<div class="about" id="about_header">
 <h1><img src="include/images/suite_logo.png" alt="SuiteCRM" ondblclick='abouter.display();'></h1>
 <br>
 <b>
@@ -96,4 +102,4 @@ global $sugar_config, $mod_strings;
     </div>
 </tr>
 </table>
-</div>
+</div>-->
