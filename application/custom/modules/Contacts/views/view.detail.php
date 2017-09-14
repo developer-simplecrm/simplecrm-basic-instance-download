@@ -136,8 +136,7 @@ class CustomContactsViewDetail extends ContactsViewDetail {
 											last_namee  = page_or_user_dispaly_name_split1;
 										}
 
-										var desc = 'Tweet : '+tweet+', Tweeted by : '+page_or_user_dispaly_name+', Tweeted on : '+published_date+', Link to tweet : https://twitter.com/string/status/'+status_id;
-
+										var desc = 'Tweet : '+tweet+' \\n Tweeted by : '+page_or_user_dispaly_name+' \\n Tweeted on : '+published_date+' \\n Link to tweet : https://twitter.com/string/status/'+status_id;
 										var case_desc = '<p>Tweet : '+tweet+' </p><p>Tweeted by : '+page_or_user_dispaly_name+'</p><p>Tweeted on : '+published_date+'</p><p>Link to tweet : <a href="https://twitter.com/string/status/'+status_id+'" target="_blank">Tweet</a></p>';
 
 										var tweet                      = split_hidu_data[0];
